@@ -16,24 +16,24 @@ The focus of this list will be over low level IT problems.
 
 ## Common Problems in IT
 <b>Password Problems</b>
-<br>There are many reasons in IT in which we will be required to reset a users password. Sometimes this will be straight forward and others we will need to come to this solution on our own after listening to the needs of the user we are helping.</br>
+<br>There are many reasons in IT in which we will be required to reset a user's password. Sometimes this will be straightforward and others we will need to come to this solution on our own after listening to the needs of the user we are helping.</br>
 <br>Some of the reasons we might need to reset a password are:</br>
 <br>1. Forgotten password </br>
 <br>2. Caps lock is on </br>
-<br>Before we change the password we should make sure the user is not enabling anything that would affect their ability to enter their password correctly such as capslock or mistyping keys.</br>
+<br>Before we change the password we should make sure the user is not enabling anything that would affect their ability to enter their password correctly such as caps lock or mistyping keys.</br>
 <br>3. Expired password </br>
 <br>4. Suspended due to inactivity - The user might have been on leave or vacation and the account was disabled for security reasons.</br>
-<br>As an IT professional we should be able to enable their account for them as they resume operations within the compancy.</br>
+<br>As an IT professional we should be able to enable their account for them as they resume operations within the company.</br>
 <br>5. Onboarding and Offboarding</br>
 <br>It is inevitable that new users will join and leave the company. We must make sure that the users that have left will have their account info changed and disabled. For new users we must set up their new usernames, passwords, and other information as needed.</br>
 <br>6. Security Reasons</br>
-<br>There is a lot of reasons we would change a password to have a better security hygiene. This includes Breaching of an account, unathorized/suspicious activity on an account, Social engineering incidents, and lastly for compliance with password length and complexity. </br>
-<br>Although their are many problems within the category of password resets, The end solution is the same. In some instances we might be able to send the user a password reset link. We can also utilize software tools like active directory to change passwords, usernames, and enable/disable accounts within our organization. </br>
+<br>There are a lot of reasons we would change a password to have better security hygiene. This includes Breaching of an account, unauthorized/suspicious activity on an account, Social engineering incidents, and lastly for compliance with password length and complexity. </br>
+<br>Although there are many problems within the category of password resets, The end solution is the same. In some instances we might be able to send the user a password reset link. We can also utilize software tools like active directory to change passwords, usernames, and enable/disable accounts within our organization. </br>
 <br></br>
 <b>Slow Computer</b>
 <br>A computer might be slow because of many reasons</br>
 <br>What we can do to assist users is the following:</br>
-* Using tools like TaskManager to check CPU and Ram: We will be able to see which applications are draining the computers resources.
+* Using tools like TaskManager to check CPU and Ram: We will be able to see which applications are draining the computer's resources.
 * Remove temporary files, Empty recycle bin, Remove any large unused programs on the device.
 * Check for Viruses / Malware on the machine
 
@@ -49,7 +49,7 @@ The focus of this list will be over low level IT problems.
 
 
 <br></br>
-<b>Connceted Device Problems</b>
+<b>Connected Device Problems</b>
 <br>There are many devices that people will use and need help with. These can be keyboards, Mouse, Headphones, etc. </br>
 * Check batteries of devices
 * Make sure all connections are correct
