@@ -5,11 +5,14 @@ The focus of this list will be over low level IT problems.
 <br>In this listing I will be going over common problems that an IT professional might encounter and discussing various ways we might go about solving them. This is not a comprehensive list and there will be more possible solutions to the problem than I am providing. The purpose behind the creation of this repository is for myself and others who are going into IT to use as a checklist or Knowledge base for possible encounters in the future of their careers.</br>
 
 ## Third Party Software
-<b>PDF files</b>
-<br></br>
+<br>Always make sure that any third party software that you install is specifically allowed by the organization and the user has a subscription to use it.</br>
 
-<b>Oracle DB installer</b>
-<br></br>
+<b>PDF files</b>
+<br>The reason PDF files might not be working are:</br>
+* Adobe PDF reader not installed
+* Wrong configuration
+
+<br>Using File association we can see what is associated on the .pdf extension as a default. We can then make sure it is on the proper default of Adobe PDF reader.</br>
 
 ## Common Problems in IT
 <b>Password Problems</b>
@@ -42,20 +45,63 @@ The focus of this list will be over low level IT problems.
 * Testing other devices on the same network
 * Checking ISP outages
 * Restarting the modem/router
-* Lastly if the problem is too complex we can 
+* Lastly if the problem is too complex we can always escalate to a higher level
 
 
 <br></br>
 <b>Connceted Device Problems</b>
-<br></br>
+<br>There are many devices that people will use and need help with. These can be keyboards, Mouse, Headphones, etc. </br>
+* Check batteries of devices
+* Make sure all connections are correct
+* Make sure the attachment is configured and selected correctly
+* Check drivers are installed and updated - Sometimes a new update will be the cause of the faulty performance and in that instance we will rollback the driver update
+  
+<br>The solution to this problem can vary a little bit through the difference of wireless vs wired. Overall the process will still be the same and we can use a checklist to help us go through the possible problems we face.</br>
 
 <br></br>
 <b>Printer Issues</b>
-<br></br>
+<br>Another most common issue is issues with the printer:</br>
+* Check toner and paper
+  
+<br>If we are able to physically access the printer ourselves there is a lot more we can do as IT professionals. Checking toner and paper as well as the overall quality and connections on the printer will help us in our diagnostic of the problem we are facing.</br>
+* Network connections
+  
+<br>Is the printer discoverable on the network, Is the hostname correct, Is it properly connected?</br>
+* Up to date printer drivers (On the Host and the printer)
+* Printer queue
+
+<br>Stuck print queues can also be known to cause problems and make the printer stop responding. Clearing this up might allow the printer to work as the user needs.</br>
+* Restarting the device and Testing on another device
+  
+<br>Sometimes there are limits to what we can do in IT, but a good troubleshooting technique is to test on different devices to verify this a localized issue. Restarting a device is always a viable path to try and resolve an issue that we are encountering on a device.</br>
+
 
 ## More Complex IT Problems
 <b>Deleted Files / Data Loss</b>
-<br></br>
+<br>There will be times when users accidently delete data that they should not have or data that they were working on and could not save. Some of the techniques we can try to get the user their work back are: </br>
+* Checking Recycle bin
 
-<b>Blue Screen Of Death</b>
+<br>Recycle bin should always be the first place we look for files that have been believed to be deleted.</br>
+* Searching
+
+<br>Searching by file type and directory path might allow us to find the data they have lost if it has not been deleted but the user thinks they have</br>
+* Escalate issue
+
+<br>If the data is stored on a server then we could reinstate the user. Sadly there is not much to do when data has been deleted without being saved and the process to help them might be above what we can do which means we need to escalate the ticket to more advanced help.</br>
+
 <br></br>
+<b>Blue Screen Of Death</b>
+<br>This is one of the scariest things we can face when trying to assist users with their problems. </br>
+* Note the error message displayed on screen
+* Ask the user about recent changes they have made
+* Hardware issues
+
+<br>Physically inspecting the device can let us see if there are any loose connections, faulty hardware, adequate ventilation, and visible damage.</br>
+* Boot into Safe Mode
+
+<br>In safe mode we are able to see if the cause might be related to software or driver issues on the affected device.</br>
+* Malware and Virus Scan
+* Windows up to date
+* Escalation
+
+<br>The BSOD is a very complex issue as many or compounding reasons could be the cause for the issue that is occuring. Sometimes we need to rely on colleagues that are on site or more equipped to handle the issues than we are.</br>
