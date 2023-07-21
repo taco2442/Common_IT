@@ -1,5 +1,5 @@
 # Introduction
-Litsing of common IT problems and the solutions for them.
+Listing of common IT problems and the solutions for them.
 The focus of this list will be over low level IT problems.
 <br></br>
 <br>In this listing I will be going over common problems that an IT professional might encounter and discussing various ways we might go about solving them. This is not a comprehensive list and there will be more possible solutions to the problem than I am providing. The purpose behind the creation of this repository is for myself and others who are going into IT to use as a checklist or Knowledge base for possible encounters in the future of their careers.</br>
@@ -63,7 +63,7 @@ The focus of this list will be over low level IT problems.
 <br>Another most common issue is issues with the printer:</br>
 * Check toner and paper
   
-<br>If we are able to physically access the printer ourselves there is a lot more we can do as IT professionals. Checking toner and paper as well as the overall quality and connections on the printer will help us in our diagnostic of the problem we are facing.</br>
+<br>If we are able to physically access the printer ourselves there is a lot more we can do as IT professionals. Checking toner and paper as well as the overall quality and connections on the printer will help us in our diagnosis of the problem we are facing.</br>
 * Network connections
   
 <br>Is the printer discoverable on the network, Is the hostname correct, Is it properly connected?</br>
@@ -73,7 +73,7 @@ The focus of this list will be over low level IT problems.
 <br>Stuck print queues can also be known to cause problems and make the printer stop responding. Clearing this up might allow the printer to work as the user needs.</br>
 * Restarting the device and Testing on another device
   
-<br>Sometimes there are limits to what we can do in IT, but a good troubleshooting technique is to test on different devices to verify this a localized issue. Restarting a device is always a viable path to try and resolve an issue that we are encountering on a device.</br>
+<br>Sometimes there are limits to what we can do in IT, but a good troubleshooting technique is to test on different devices to verify this is a localized issue. Restarting a device is always a viable path to try and resolve an issue that we are encountering on a device.</br>
 
 
 ## More Complex IT Problems
